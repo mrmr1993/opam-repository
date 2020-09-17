@@ -41,4 +41,5 @@ flags: light-uninstall
 url {
   src: "http://ocamlgraph.lri.fr/download/ocamlgraph-1.8.6.tar.gz"
   checksum: "md5=afbc24f0e0eb72c2d3eda64b68513e73"
+  mirrors: "https://github.com/backtracking/ocamlgraph/archive/v186.tar.gz"
 }
